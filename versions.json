@@ -1,14 +1,18 @@
 [
     {
-        "script":"l2s-script",
+        "script":"l2s-hotels_esx",
         "version":"1.0.0"
     },
     {
-        "script":"l2s-script",
+        "script":"hotels_qb",
         "version":"1.0.0"
     },
     {
-        "script":"l2s-script",
+        "script":"l2s-housing_esx",
         "version":"1.0.0"
-    }
+    },
+    {
+        "script":"l2s-housing_qb",
+        "version":"1.0.0"
+    },
 ]
