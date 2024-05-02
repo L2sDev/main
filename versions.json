@@ -15,4 +15,12 @@
         "script":"l2s-housing_qb",
         "version":"1.0.0"
     },
+     {
+        "script":"l2s-gangturf_esx",
+        "version":"1.4.0"
+    },
+    {
+        "script":"l2s-gangturf_qb",
+        "version":"1.4.0"
+    },   
 ]
