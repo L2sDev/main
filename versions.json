@@ -30,5 +30,7 @@
   {"script": "l2s-minigames_v6", "version": "1.0.0"},
   {"script": "l2s-housing_v6", "version": "1.0.0"},
   {"script": "l2s-headsupdisplay_v6", "version": "1.0.0"},
-  {"script": "l2s-crafting_v6", "version": "1.0.0"}
+  {"script": "l2s-crafting_v6", "version": "1.0.0"},
+  {"script": "l2s-motel_v6", "version": "1.0.0"}
+
 ]
